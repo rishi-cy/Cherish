@@ -65,3 +65,4 @@ This application is configured for deployment on Render.com:
 - File uploads are validated and sanitized
 - HTTPS is enforced in production
 - Session management is implemented 
+# Cherish

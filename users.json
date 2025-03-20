@@ -1,0 +1,7 @@
+{
+    "Testuser": "pbkdf2:sha256:260000$ChG6IKdIBQz5Kd4q$f3b0b8bd6846eb4aee49a9117c06ca92e08b8e36b207b3f02d60966cad33d273",
+    "Test": "pbkdf2:sha256:260000$zMS7xOqWhrjlHWzw$37be93b6f1d25052bf7841419b77eb08e93ffa3633c7410657b818699690e2c1",
+    "newuser": "pbkdf2:sha256:260000$Hp6xrHyjxnBnCA1J$b3f5590baa2e7c65c6302887a36ffa6e71e3d6729564dac7645ec67a716e80c0",
+    "Haha": "pbkdf2:sha256:260000$IxQtiovdwYuV5e8Q$2e4e8ba09127c998e0f4f985ca0a0e726b84547cf2497c4c0f70e22e7b8a4d7c",
+    "Workout": "pbkdf2:sha256:260000$YpRwGWqkIoHbFtCW$c26f8533b46713721d788143e2a613e52c0a73bcf86b855c16531fce2c84b3ff"
+}

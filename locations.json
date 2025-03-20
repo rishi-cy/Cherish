@@ -1,0 +1,291 @@
+[
+    {
+        "user": "rishi@gmail.com",
+        "name": "London",
+        "description": "Streets of London are beautiful. ",
+        "experience": "I love London culture.",
+        "latitude": 51.4893335,
+        "longitude": -0.14405508452768728,
+        "pictures": [
+            "/static/uploads/uk1.jpg",
+            "/static/uploads/uk2.jpg"
+        ]
+    },
+    {
+        "user": "rishi@gmail.com",
+        "name": "Paris",
+        "description": "City of Light.",
+        "experience": "Eiffle tower is so huge.",
+        "latitude": 48.8534951,
+        "longitude": 2.3483915,
+        "pictures": [
+            "/static/uploads/paris1.jpg",
+            "/static/uploads/paris2.jpg"
+        ]
+    },
+    {
+        "user": "rishi@gmail.com",
+        "name": "Charminar",
+        "description": "Represents Hyderabad.",
+        "experience": "Ancient architecture with four pillars.",
+        "latitude": 17.361602400000002,
+        "longitude": 78.47464213773966,
+        "pictures": [
+            "/static/uploads/char1.jpg",
+            "/static/uploads/char2.jpg"
+        ]
+    },
+    {
+        "user": "rishi@gmail.com",
+        "name": "Gulmarg",
+        "description": "Switzerland of India.",
+        "experience": "When I was at Gulmarg it was a sunny day. I was surrounded by by snow all the four sides. White snow everywhere blocking my view to see far places. Gulmarg is truly a heaven in India.",
+        "latitude": 34.04897,
+        "longitude": 74.39212,
+        "pictures": [
+            "/static/uploads/kashmir1.jpeg",
+            "/static/uploads/kashmir2.jpeg"
+        ]
+    },
+    {
+        "user": "rishi@gmail.com",
+        "name": "Coorg",
+        "description": "Best destination in summer.",
+        "experience": "Hill station which has given introduced me to cool temperatures, Hill station which is has given me best sunrise views.",
+        "latitude": 12.9363343,
+        "longitude": 77.6151183,
+        "pictures": [
+            "/static/uploads/coorg1 .jpg",
+            "/static/uploads/coorg2.jpg",
+            "/static/uploads/coorg3.jpg"
+        ]
+    },
+    {
+        "user": "rishi@gmail.com",
+        "name": "Puducherry",
+        "description": "Beaches and Forest.",
+        "experience": "First group trip with my Btech friends. It was a three days trip with lifetime memories.",
+        "latitude": 10.91564885,
+        "longitude": 79.80694879844232,
+        "pictures": [
+            "/static/uploads/pon1.jpg",
+            "/static/uploads/pon3.jpg",
+            "/static/uploads/pon4.jpg"
+        ]
+    },
+    {
+        "user": "local",
+        "name": "bhopal",
+        "description": "example",
+        "experience": "hope it works\r\n",
+        "latitude": 23.2584857,
+        "longitude": 77.401989,
+        "pictures": [
+            "/static/uploads/char1.jpg",
+            "/static/uploads/char2.jpg"
+        ]
+    },
+    {
+        "user": "prasa",
+        "name": "Hyderabad",
+        "description": "Hope it works",
+        "experience": "M antav?",
+        "latitude": 17.360589,
+        "longitude": 78.4740613,
+        "pictures": [
+            "/static/uploads/char1.jpg",
+            "/static/uploads/char2.jpg",
+            "/static/uploads/coorg1_.jpg"
+        ]
+    },
+    {
+        "user": "prasa",
+        "name": "Paris",
+        "description": "working kada?",
+        "experience": "haha",
+        "latitude": 48.8588897,
+        "longitude": 2.3200410217200766,
+        "pictures": [
+            "/static/uploads/Kerela.jpg",
+            "/static/uploads/Kochi.jpg",
+            "/static/uploads/mgit1.jpg",
+            "/static/uploads/palace1.jpg",
+            "/static/uploads/palace2.jpg",
+            "/static/uploads/paris1.jpg"
+        ]
+    },
+    {
+        "user": "Rishi1",
+        "name": "Hyderabad",
+        "description": "So small",
+        "experience": "Is it working?",
+        "latitude": 17.360589,
+        "longitude": 78.4740613,
+        "pictures": [
+            "/static/uploads/Kerela.jpg",
+            "/static/uploads/Kochi.jpg",
+            "/static/uploads/mgit1.jpg",
+            "/static/uploads/mgit2.jpg",
+            "/static/uploads/palace1.jpg",
+            "/static/uploads/palace2.jpg",
+            "/static/uploads/paris1.jpg",
+            "/static/uploads/paris2.jpg"
+        ]
+    },
+    {
+        "user": "Testuser",
+        "name": "Bhopal",
+        "description": "Working?",
+        "experience": "Work avvave",
+        "latitude": 23.2584857,
+        "longitude": 77.401989,
+        "pictures": [
+            "/static/uploads/Kerela.jpg",
+            "/static/uploads/Kochi.jpg",
+            "/static/uploads/mgit1.jpg",
+            "/static/uploads/mgit2.jpg",
+            "/static/uploads/palace1.jpg",
+            "/static/uploads/palace2.jpg",
+            "/static/uploads/paris1.jpg",
+            "/static/uploads/paris2.jpg"
+        ]
+    },
+    {
+        "user": "newuser",
+        "name": "Hyderabad",
+        "description": "HAHA",
+        "experience": "Working",
+        "latitude": 17.360589,
+        "longitude": 78.4740613,
+        "pictures": [
+            "/static/uploads/coorg1_.jpg",
+            "/static/uploads/coorg2.jpg",
+            "/static/uploads/coorg3.jpg",
+            "/static/uploads/kar1.JPG",
+            "/static/uploads/kar2.jpg",
+            "/static/uploads/kashmir1.jpeg"
+        ]
+    },
+    {
+        "user": "newuser",
+        "name": "London",
+        "description": "Hehe",
+        "experience": "M antav?",
+        "latitude": 51.5074456,
+        "longitude": -0.1277653,
+        "pictures": [
+            "/static/uploads/IMG20230115140221.jpg",
+            "/static/uploads/IMG20230114131528.jpg"
+        ]
+    },
+    {
+        "user": "newuser",
+        "name": "Ram",
+        "description": "Here we go",
+        "experience": "Ooruko ra bujji",
+        "latitude": 17.388504400000002,
+        "longitude": 78.53716765535319,
+        "pictures": [
+            "/static/uploads/20250314_160456_nir1.jpg",
+            "/static/uploads/20250314_160456_palace1.jpg",
+            "/static/uploads/20250314_160456_palace2.jpg",
+            "/static/uploads/20250314_160457_pon1.jpg",
+            "/static/uploads/20250314_160457_pon3.jpg",
+            "/static/uploads/20250314_160457_pon4.jpg"
+        ]
+    },
+    {
+        "user": "newuser",
+        "name": "Australia",
+        "description": "Haha",
+        "experience": "Jijoo",
+        "latitude": -24.7761086,
+        "longitude": 134.755,
+        "pictures": [
+            "/static/uploads/20250314_160759_IMG20250224132950.jpg",
+            "/static/uploads/20250314_160759_IMG20250224132945.jpg",
+            "/static/uploads/20250314_160759_IMG20250224132943.jpg",
+            "/static/uploads/20250314_160759_IMG20250224132923.jpg",
+            "/static/uploads/20250314_160759_IMG20250224132919.jpg",
+            "/static/uploads/20250314_160759_IMG20250224132918.jpg"
+        ]
+    },
+    {
+        "user": "Haha",
+        "name": "Ostundi",
+        "description": "M antavo",
+        "experience": "Without same network ravali",
+        "latitude": 17.360589,
+        "longitude": 78.4740613,
+        "pictures": [
+            "/static/uploads/20250314_163417_1000011254.jpg",
+            "/static/uploads/20250314_163417_1000011253.jpg"
+        ]
+    },
+    {
+        "user": "Haha",
+        "name": "User",
+        "description": "Haha",
+        "experience": "Hehe",
+        "latitude": 48.8534951,
+        "longitude": 2.3483915,
+        "pictures": [
+            "/static/uploads/20250314_163502_1000011725.jpg",
+            "/static/uploads/20250314_163502_1000011723.jpg",
+            "/static/uploads/20250314_163502_1000011724.jpg",
+            "/static/uploads/20250314_163502_1000011670.png"
+        ]
+    },
+    {
+        "user": "newuser",
+        "name": "Sonamarg",
+        "description": "Nice place ",
+        "experience": "Good",
+        "latitude": 34.302387,
+        "longitude": 75.2965551,
+        "pictures": [
+            "/static/uploads/20250314_191814_1000011725.jpg",
+            "/static/uploads/20250314_191814_1000011254.jpg",
+            "/static/uploads/20250314_191814_1000011214.jpg",
+            "/static/uploads/20250314_191814_1000011215.jpg",
+            "/static/uploads/20250314_191814_1000011212.jpg",
+            "/static/uploads/20250314_191814_1000011206.jpg",
+            "/static/uploads/20250314_191814_1000011207.jpg"
+        ]
+    },
+    {
+        "user": "newuser",
+        "name": "Violence ",
+        "description": "Pani chestundi",
+        "experience": "Chaduvosthe chaduvu ra pumka",
+        "latitude": -10.3333333,
+        "longitude": -53.2,
+        "pictures": [
+            "/static/uploads/20250318_202135_IMG-20250101-WA0008.jpg",
+            "/static/uploads/20250318_202135_IMG-20250101-WA0012.jpg",
+            "/static/uploads/20250318_202135_IMG-20250101-WA0016.jpg",
+            "/static/uploads/20250318_202135_IMG-20250101-WA0021.jpg",
+            "/static/uploads/20250318_202135_IMG-20250101-WA0039.jpg",
+            "/static/uploads/20250318_202135_IMG-20250101-WA0042.jpg",
+            "/static/uploads/20250318_202135_IMG-20250101-WA0049.jpg",
+            "/static/uploads/20250318_202136_IMG-20250101-WA0053.jpg",
+            "/static/uploads/20250318_202136_IMG-20250101-WA0057.jpg",
+            "/static/uploads/20250318_202136_IMG-20250101-WA0073.jpg",
+            "/static/uploads/20250318_202136_IMG-20250101-WA0075.jpg",
+            "/static/uploads/20250318_202136_IMG-20250101-WA0077.jpg"
+        ]
+    },
+    {
+        "user": "newuser",
+        "name": "Bangalore ",
+        "description": "Up",
+        "experience": "Down",
+        "latitude": 12.98815675,
+        "longitude": 77.62260003796,
+        "pictures": [
+            "/static/uploads/20250318_213349_IMG20250225091111.jpg",
+            "/static/uploads/20250318_213349_IMG20250225091110.jpg",
+            "/static/uploads/20250318_213349_IMG20250225091108.jpg"
+        ]
+    }
+]
